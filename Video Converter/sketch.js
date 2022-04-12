@@ -1,4 +1,4 @@
-// Image to ASCII
+// Video to ASCII
 
 //const density = "Ñ@#W$9876543210?!abc;:+=-,._                    ";
 const density = '       .:-i|=+%O#@'
